@@ -1,0 +1,22 @@
+// {
+//     "compilerOptions": {
+//       "module": "commonjs",
+//       "moduleResolution": "node",
+//       "resolveJsonModule": true,
+//       "esModuleInterop": true,
+//       "target": "es2017",
+//       "downlevelIteration": true
+//     }
+//   }
+  
+
+  {
+    "compilerOptions": {
+      "moduleResolution": "node",
+      "resolveJsonModule": true,
+      "esModuleInterop": true,
+      "target": "es5",
+      "downlevelIteration": true
+    }
+  }
+  

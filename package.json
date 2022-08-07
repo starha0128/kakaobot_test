@@ -1,0 +1,25 @@
+{
+  "name": "loco4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-kakao": "^4.5.0",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9",
+    "sync-request": "^6.1.0",
+    "typescript": "^4.5.5"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "description": "",
+  "devDependencies": {
+    "ts-node": "^10.4.0"
+  }
+}

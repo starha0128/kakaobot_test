@@ -1,0 +1,10 @@
+{
+    "accessTok": "",
+    "accessToken": "",
+    "deviceName": "디바이스 이름 설정(원하는 이름으로)",
+    "deviceUUID": "디바이스 고유값 입력(메뉴얼 참조)",
+    "email": "카카오 계정 ID 입력",
+    "pw": "카카오 계정 PW 입력",
+    "refreshToken": "",
+    "userId": {}
+}
